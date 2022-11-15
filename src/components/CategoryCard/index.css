@@ -1,0 +1,26 @@
+.category-button {
+  font-size: 20px;
+  background-color: transparent;
+  border: none;
+
+  margin-right: 20px;
+  font-weight: 600;
+  color: #fec653;
+  padding-bottom: 15px;
+  outline: none;
+  cursor: pointer;
+}
+
+.category-button-active {
+  font-size: 20px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  margin-right: 20px;
+  font-weight: 600;
+  color: #fec653;
+  border-bottom: solid;
+  border-bottom-color: #fec653;
+  padding-bottom: 15px;
+}

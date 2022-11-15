@@ -1,0 +1,15 @@
+.opt-thumbnail-list-item {
+  margin-right: 10px;
+}
+
+.thumb-image {
+  width: 100px;
+  height: 100px;
+}
+
+.optimbtn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
